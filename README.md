@@ -1,2 +1,1 @@
-# minesweeperBot
-Python bot destroys Google Minesweeper
+# How to Use
