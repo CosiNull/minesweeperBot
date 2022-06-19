@@ -1,4 +1,4 @@
-# How to Use
+# How to Use the Bot
 <br>
 <b> Necessary Software and Code </b> <br>
 1. Make sure to have python installed on your computer with the following modules: (pickle, pyautogui, numpy). <br>
